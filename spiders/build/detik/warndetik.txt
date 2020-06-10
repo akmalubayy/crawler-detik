@@ -1,0 +1,51 @@
+missing module named 'multiprocessing.forking' - imported by c:\programdata\anaconda2\envs\py36\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named cookielib - imported by twisted.python.compat
+missing module named urllib.unquote - imported by urllib, twisted.python.compat, asn1crypto._iri, twisted.web.http
+missing module named urllib.quote - imported by urllib, twisted.python.compat, asn1crypto._iri
+missing module named urlparse - imported by scrapy._monkeypatches, twisted.python.compat, asn1crypto._iri, lxml.html, twisted.web.http
+missing module named _scproxy - imported by urllib.request
+missing module named StringIO - imported by six, twisted.python.compat
+missing module named cStringIO - imported by twisted.python.compat, twisted.python.util, cPickle, twisted.persisted.styles, asn1crypto.core, scrapy.utils.iterators, scrapy.utils.gz
+missing module named copy_reg - imported by twisted.persisted.styles, cStringIO, cPickle
+missing module named fcntl - imported by asyncio.unix_events, twisted.internet.fdesc, pty, twisted.internet.process
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events
+missing module named Queue - imported by twisted.internet.threads, twisted._threads._pool
+missing module named 'twisted.python._sendmsg' - imported by twisted.python.sendmsg
+missing module named UserDict - imported by asn1crypto._ordereddict, attr._compat
+runtime module named six.moves - imported by scrapy._monkeypatches, cryptography.x509.general_name, 'six.moves.urllib', scrapy.http.request.rpc
+missing module named resource - imported by posix, twisted.internet.process, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named posix - imported by os, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named org - imported by pickle, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named readline - imported by cmd, code, pdb, D:\scrappy\tutorial\tutorial\spiders\detik.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named _winreg - imported by platform, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named java - imported by platform, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named 'java.lang' - imported by platform, D:\scrappy\tutorial\tutorial\spiders\detik.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named termios - imported by tty, getpass, twisted.internet.process, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named urllib.urlopen - imported by urllib, lxml.html
+missing module named urllib.urlencode - imported by urllib, lxml.html
+missing module named grp - imported by shutil, tarfile, distutils.archive_util, twisted.python.util, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, distutils.util, distutils.archive_util, netrc, getpass, twisted.python.util, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named _dummy_threading - imported by dummy_threading, D:\scrappy\tutorial\tutorial\spiders\detik.py
+missing module named 'org.python' - imported by copy, D:\scrappy\tutorial\tutorial\spiders\detik.py, xml.sax
+missing module named simplejson - imported by psycopg2._json
+missing module named 'h2.exceptions' - imported by twisted.web._http2
+missing module named 'h2.events' - imported by twisted.web._http2
+missing module named 'h2.errors' - imported by twisted.web._http2
+missing module named 'h2.connection' - imported by twisted.web._http2
+missing module named h2 - imported by twisted.web._http2
+missing module named priority - imported by twisted.web._http2
+missing module named "'six.moves.urllib'.request" - imported by w3lib.url
+missing module named functools32 - imported by parsel.csstranslator
+missing module named "'six.moves.urllib'.parse" - imported by w3lib.url, scrapy.utils.url, scrapy.http.request.form, scrapy.http.response, scrapy.http.response.text, scrapy.utils.sitemap
+missing module named cPickle - imported by twisted.persisted.styles

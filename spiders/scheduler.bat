@@ -1,0 +1,1 @@
+activate py36 && scrapy runspider detik.py

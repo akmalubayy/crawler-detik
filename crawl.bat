@@ -1,0 +1,1 @@
+cd /E E:/Ambil && activate py36 && scrapy runspider "E:/Ambil/crawl/spiders/detik.py"
